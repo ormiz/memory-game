@@ -1,0 +1,28 @@
+<div class="container">
+    <form>
+        <p style="height:60px;"></p>
+        <div class="form-group row">
+            <label for="spinner" class="col-form-label col-sm-offset-4 col-sm-2">Number of cards to play:</label>
+            <div class="col-sm-2">
+                <div class="input-group">
+                    <input style="height:57px;" type="text" id="spinner" class="form-control" ng-model="spinnerValue" readonly>
+                    <span class="input-group-addon">
+                        <div class="btn-group-vertical">
+                        <button class="btn btn-xs btn-secondary" type="button" ng-click="incrementSpinnerValue()">
+                            <span class="glyphicon glyphicon-chevron-up"></span>
+                    </button>
+                    <button class="btn btn-xs btn-secondary" type="button" ng-click="decrementSpinnerValue()">
+                            <span class="glyphicon glyphicon-chevron-down"></span>
+                    </button>
+                </div>
+                </span>
+            </div>
+        </div>
+</div>
+<div class="form-group row">
+    <div class="col-sm-offset-4 col-sm-4">
+        <a class="btn btn-primary btn-block" href="#!game">Start</a>
+    </div>
+</div>
+</form>
+</div>

@@ -1,0 +1,11 @@
+<div class="container" ng-init="startGame()">
+    <div class="row">
+        <div class="col-md-10">
+            <card ng-repeat="c in cards track by $index" card-data="c" card-action="cardClick(c)">
+            </card>
+        </div>
+        <div class="col-md-2">
+            <a class="btn btn-primary" href="#!result">Finish</a>
+        </div>
+    </div>
+</div>
