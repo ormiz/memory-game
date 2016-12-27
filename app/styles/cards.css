@@ -1,1271 +1,995 @@
 /* line 480, cards/*.png */
-
-.cards-sprite,
-.cards-card0,
-.cards-card1,
-.cards-card10,
-.cards-card11,
-.cards-card12,
-.cards-card13,
-.cards-card14,
-.cards-card15,
-.cards-card16,
-.cards-card17,
-.cards-card18,
-.cards-card19,
-.cards-card2,
-.cards-card20,
-.cards-card21,
-.cards-card22,
-.cards-card23,
-.cards-card24,
-.cards-card25,
-.cards-card26,
-.cards-card27,
-.cards-card28,
-.cards-card29,
-.cards-card3,
-.cards-card30,
-.cards-card31,
-.cards-card32,
-.cards-card33,
-.cards-card34,
-.cards-card35,
-.cards-card36,
-.cards-card37,
-.cards-card38,
-.cards-card39,
-.cards-card4,
-.cards-card40,
-.cards-card41,
-.cards-card42,
-.cards-card43,
-.cards-card44,
-.cards-card45,
-.cards-card46,
-.cards-card47,
-.cards-card48,
-.cards-card49,
-.cards-card5,
-.cards-card50,
-.cards-card51,
-.cards-card52,
-.cards-card53,
-.cards-card54,
-.cards-card6,
-.cards-card7,
-.cards-card8,
-.cards-card9 {
-    background-image: url('../images/cards-sc833fb337a.png');
-    background-repeat: no-repeat;
+.cards-sprite, .cards-card0, .cards-card1, .cards-card10, .cards-card11, .cards-card12, .cards-card13, .cards-card14, .cards-card15, .cards-card16, .cards-card17, .cards-card18, .cards-card19, .cards-card2, .cards-card20, .cards-card21, .cards-card22, .cards-card23, .cards-card24, .cards-card25, .cards-card26, .cards-card27, .cards-card28, .cards-card29, .cards-card3, .cards-card30, .cards-card31, .cards-card32, .cards-card33, .cards-card34, .cards-card35, .cards-card36, .cards-card37, .cards-card38, .cards-card39, .cards-card4, .cards-card40, .cards-card41, .cards-card42, .cards-card43, .cards-card44, .cards-card45, .cards-card46, .cards-card47, .cards-card48, .cards-card49, .cards-card5, .cards-card50, .cards-card51, .cards-card52, .cards-card53, .cards-card54, .cards-card6, .cards-card7, .cards-card8, .cards-card9 {
+  background-image: url('../images/cards-sc833fb337a.png');
+  background-repeat: no-repeat;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card0 {
-    background-position: 0 0;
+  background-position: 0 0;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card1 {
-    background-position: 0 -726px;
+  background-position: 0 -726px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card10 {
-    background-position: 0 -1452px;
+  background-position: 0 -1452px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card11 {
-    background-position: 0 -2178px;
+  background-position: 0 -2178px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card12 {
-    background-position: 0 -2904px;
+  background-position: 0 -2904px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card13 {
-    background-position: 0 -3630px;
+  background-position: 0 -3630px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card14 {
-    background-position: 0 -4356px;
+  background-position: 0 -4356px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card15 {
-    background-position: 0 -5082px;
+  background-position: 0 -5082px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card16 {
-    background-position: 0 -5808px;
+  background-position: 0 -5808px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card17 {
-    background-position: 0 -6534px;
+  background-position: 0 -6534px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card18 {
-    background-position: 0 -7260px;
+  background-position: 0 -7260px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card19 {
-    background-position: 0 -7986px;
+  background-position: 0 -7986px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card2 {
-    background-position: 0 -8712px;
+  background-position: 0 -8712px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card20 {
-    background-position: 0 -9438px;
+  background-position: 0 -9438px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card21 {
-    background-position: 0 -10164px;
+  background-position: 0 -10164px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card22 {
-    background-position: 0 -10890px;
+  background-position: 0 -10890px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card23 {
-    background-position: 0 -11616px;
+  background-position: 0 -11616px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card24 {
-    background-position: 0 -12342px;
+  background-position: 0 -12342px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card25 {
-    background-position: 0 -13068px;
+  background-position: 0 -13068px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card26 {
-    background-position: 0 -13794px;
+  background-position: 0 -13794px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card27 {
-    background-position: 0 -14520px;
+  background-position: 0 -14520px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card28 {
-    background-position: 0 -15246px;
+  background-position: 0 -15246px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card29 {
-    background-position: 0 -15972px;
+  background-position: 0 -15972px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card3 {
-    background-position: 0 -16698px;
+  background-position: 0 -16698px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card30 {
-    background-position: 0 -17424px;
+  background-position: 0 -17424px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card31 {
-    background-position: 0 -18150px;
+  background-position: 0 -18150px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card32 {
-    background-position: 0 -18876px;
+  background-position: 0 -18876px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card33 {
-    background-position: 0 -19602px;
+  background-position: 0 -19602px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card34 {
-    background-position: 0 -20328px;
+  background-position: 0 -20328px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card35 {
-    background-position: 0 -21054px;
+  background-position: 0 -21054px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card36 {
-    background-position: 0 -21780px;
+  background-position: 0 -21780px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card37 {
-    background-position: 0 -22506px;
+  background-position: 0 -22506px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card38 {
-    background-position: 0 -23232px;
+  background-position: 0 -23232px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card39 {
-    background-position: 0 -23958px;
+  background-position: 0 -23958px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card4 {
-    background-position: 0 -24684px;
+  background-position: 0 -24684px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card40 {
-    background-position: 0 -25410px;
+  background-position: 0 -25410px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card41 {
-    background-position: 0 -26136px;
+  background-position: 0 -26136px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card42 {
-    background-position: 0 -26862px;
+  background-position: 0 -26862px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card43 {
-    background-position: 0 -27588px;
+  background-position: 0 -27588px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card44 {
-    background-position: 0 -28314px;
+  background-position: 0 -28314px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card45 {
-    background-position: 0 -29040px;
+  background-position: 0 -29040px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card46 {
-    background-position: 0 -29766px;
+  background-position: 0 -29766px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card47 {
-    background-position: 0 -30492px;
+  background-position: 0 -30492px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card48 {
-    background-position: 0 -31218px;
+  background-position: 0 -31218px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card49 {
-    background-position: 0 -31944px;
+  background-position: 0 -31944px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card5 {
-    background-position: 0 -32670px;
+  background-position: 0 -32670px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card50 {
-    background-position: 0 -33396px;
+  background-position: 0 -33396px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card51 {
-    background-position: 0 -34122px;
+  background-position: 0 -34122px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card52 {
-    background-position: 0 -34848px;
+  background-position: 0 -34848px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card53 {
-    background-position: 0 -35574px;
+  background-position: 0 -35574px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card54 {
-    background-position: 0 -36300px;
+  background-position: 0 -36300px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card6 {
-    background-position: 0 -37026px;
+  background-position: 0 -37026px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card7 {
-    background-position: 0 -37752px;
+  background-position: 0 -37752px;
 }
 
-
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card8 {
-    background-position: 0 -38478px;
+  background-position: 0 -38478px;
 }
-
 
 /* line 84, ../../../../../../../Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
-
 .cards-card9 {
-    background-position: 0 -39204px;
+  background-position: 0 -39204px;
 }
-
 
 /* line 23, cards.scss */
-
 .cards-card0 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 0;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 0;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card1 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -146px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -146px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card10 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -291px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -291px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card11 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -436px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -436px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card12 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -581px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -581px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card13 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -726px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -726px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card14 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -872px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -872px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card15 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -1017px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -1017px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card16 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -1162px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -1162px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card17 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -1307px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -1307px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card18 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -1452px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -1452px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card19 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -1598px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -1598px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card2 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -1743px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -1743px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card20 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -1888px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -1888px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card21 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -2033px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -2033px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card22 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -2178px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -2178px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card23 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -2324px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -2324px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card24 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -2469px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -2469px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card25 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -2614px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -2614px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card26 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -2759px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -2759px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card27 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -2904px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -2904px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card28 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -3050px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -3050px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card29 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -3195px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -3195px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card3 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -3340px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -3340px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card30 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -3485px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -3485px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card31 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -3630px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -3630px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card32 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -3776px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -3776px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card33 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -3921px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -3921px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card34 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -4066px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -4066px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card35 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -4211px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -4211px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card36 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -4356px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -4356px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card37 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -4502px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -4502px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card38 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -4647px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -4647px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card39 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -4792px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -4792px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card4 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -4937px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -4937px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card40 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -5082px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -5082px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card41 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -5228px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -5228px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card42 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -5373px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -5373px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card43 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -5518px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -5518px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card44 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -5663px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -5663px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card45 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -5808px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -5808px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card46 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -5954px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -5954px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card47 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -6099px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -6099px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card48 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -6244px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -6244px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card49 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -6389px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -6389px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card5 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -6534px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -6534px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card50 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -6680px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -6680px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card51 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -6825px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -6825px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card52 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -6970px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -6970px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card53 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -7115px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -7115px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card54 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -7260px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -7260px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card6 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -7406px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -7406px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card7 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -7551px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -7551px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card8 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -7696px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -7696px;
+  margin: 20px;
+  display: inline-block;
 }
 
-
 /* line 23, cards.scss */
-
 .cards-card9 {
-    -moz-background-size: 100px 7986px;
-    -o-background-size: 100px 7986px;
-    -webkit-background-size: 100px 7986px;
-    background-size: 100px 7986px;
-    width: 100px;
-    height: 146px;
-    background-position: 0 -7841px;
-    margin: 20px;
-    display: inline-block;
+  -moz-background-size: 100px 7986px;
+  -o-background-size: 100px 7986px;
+  -webkit-background-size: 100px 7986px;
+  background-size: 100px 7986px;
+  width: 100px;
+  height: 146px;
+  background-position: 0 -7841px;
+  margin: 20px;
+  display: inline-block;
 }

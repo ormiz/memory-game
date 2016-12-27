@@ -34,5 +34,4 @@ packages/
 .tmp/*
 bower_components/*
 node_modules/*
-dist/*
 app/scripts/template.js

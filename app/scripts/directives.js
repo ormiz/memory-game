@@ -6,6 +6,6 @@ angular.module('memoryGameApp')
                 card: '=cardData',
                 cardAction: '&'
             },
-            templateUrl: '../views/card.html'
+            templateUrl: 'views/card.html'
         };
     });

@@ -32,7 +32,7 @@ module.exports = function(grunt) {
         // Concat
         concat: {
             options: {
-                separator: ';'
+                separator: ' '
             },
             // dist configuration is provided by useminPrepare
             dist: {}
@@ -51,7 +51,7 @@ module.exports = function(grunt) {
         copy: {
             dist: {
                 cwd: 'app',
-                src: ['**', '!styles/**/*.css', '!styles/**/*.scss', '!scripts/**/*.js', '!images/cards/*.png'],
+                src: ['!styles/**/*.css', '!styles/**/*.scss', '!scripts/**/*.js', '!images/cards/*.png', "images/*.png", "!views/*.html", "index.html", "favicon.ico"],
                 dest: 'dist',
                 expand: true
             },
@@ -69,7 +69,7 @@ module.exports = function(grunt) {
         usemin: {
             html: ['dist/*.html', 'dist/views/*.html'],
             options: {
-                assetsDirs: ['dist/app/scripts', 'dist/app/styles']
+                assetsDirs: ['dist/**']
             }
         },
         /*connect: {
@@ -82,30 +82,50 @@ module.exports = function(grunt) {
             }
         }*/
         browserSync: {
-            files: {
-                src: [
-                    'app/styles/*.css',
-                    'app/**/*.html',
-                    'app/scripts/*.js',
-                    'app/images/*.png'
-                ]
+            dev: {
+                bsFiles: {
+                    src: [
+                        'app/styles/*.css',
+                        'app/**/*.html',
+                        'app/scripts/*.js',
+                        'app/images/*.png'
+                    ]
+                },
+                options: {
+                    watchTask: false,
+                    server: {
+                        baseDir: "app",
+                        index: "index.html",
+                        routes: {
+                            "/bower_components": "bower_components",
+                            "/images": "images",
+                            "/views": "views"
+                        }
+                    }
+                }
             },
-            options: {
-                watchTask: false,
-                server: {
-                    baseDir: "app",
-                    index: "index.html",
-                    routes: {
-                        "/bower_components": "bower_components",
-                        "/images": "images",
-                        "/views": "views"
+            production: {
+                bsFiles: {
+                    src: [
+                        'dist/**/*'
+                    ]
+                },
+                options: {
+                    watchTask: false,
+                    server: {
+                        baseDir: "dist",
+                        index: "index.html",
+                        routes: {
+                            "/images": "images",
+                        }
                     }
                 }
             }
         },
         ngtemplates: {
-            app: {
-                src: 'app/**/*.html',
+            memoryGameApp: {
+                cwd: 'app',
+                src: 'views/*.html',
                 dest: 'app/scripts/template.js',
                 options: {
                     usemin: 'dist/scripts/main.js', // 
@@ -148,6 +168,7 @@ module.exports = function(grunt) {
 
     // ============= // CREATE TASKS ========== //
     grunt.registerTask('build', ['clean', 'jshint', 'useminPrepare', 'ngtemplates', 'concat', 'uglify', 'cssmin', 'copy', 'usemin']);
-    grunt.registerTask('serve', ['browserSync']);
+    grunt.registerTask('serve-dev', ['browserSync:dev']);
+    grunt.registerTask('serve-prod', ['browserSync:production']);
 
 };
